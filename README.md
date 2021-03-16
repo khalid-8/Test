@@ -13,7 +13,7 @@ git push <remote> <branch>
 git push origin test1 #adds test1 branch
 
 
-check for new branches:
+check and update for new branches:
 git fetch or git fetch -a
 
 delete remote branch:
