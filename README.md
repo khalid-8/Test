@@ -2,4 +2,5 @@
 
 please let me know, thanks.
 
-hahahahahahah
+visulize:
+git log --all --decorate --oneline --graph
