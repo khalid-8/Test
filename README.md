@@ -1,5 +1,5 @@
 # Install Cesium Resium
-# `npm install --save cesium resium`
+#### `npm install --save cesium resium`
 
 ## Install modules
 
